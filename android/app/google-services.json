@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187623411338",
+    "project_id": "axis-interview",
+    "storage_bucket": "axis-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187623411338:android:4918e77235dcfc16d6e773",
+        "android_client_info": {
+          "package_name": "com.example.axis_interview_ticketing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruz4gT_Eqz_0i_ROdLSeyf4vizmA4Pic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
